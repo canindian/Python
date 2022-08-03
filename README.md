@@ -1,4 +1,4 @@
-# Python:
+# Python Lessons: 
 1. Arithmetic and Variables - Make calculations, and define and modify variables.
 2. Functions - Organize your code and avoid redundancy.
 3. Data Types - Explore integers, floats, booleans, and strings.
